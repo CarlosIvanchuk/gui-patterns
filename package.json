@@ -1,0 +1,15 @@
+{
+  "name": "gui-patterns",
+  "version": "0.0.1",
+  "author": "Carlos Ivanchuk",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.42.6"
+  },
+  "type": "module"
+}
